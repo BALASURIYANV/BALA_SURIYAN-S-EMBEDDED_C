@@ -1,0 +1,7 @@
+Bus Type: NON-AC, Seat: 21, Name: bala, Age: 21, Gender: m
+
+Bus Type: NON-AC, 
+Seat: 21,
+ Name: bala,
+ Age: 21,
+ Gender: m
